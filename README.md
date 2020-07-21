@@ -3,6 +3,4 @@ Just another repository
 
 Hi All,
 
-I like Kumar Sangakkara, my fav batsman of all time.
-His Cover drives are a treat to watch so i have named 
-my username as Cover-drive.
+Basic programing or coding we use is hello world, so starting from "Hello World".
